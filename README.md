@@ -126,3 +126,5 @@ I'm an engineer with an **Electrical & Electronics Engineering and Economics** b
 *Open to Edge AI, computer vision and embedded software opportunities.*
 
 ⭐ **If you find my projects useful, feel free to star them!**
+
+
